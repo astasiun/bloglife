@@ -29,3 +29,4 @@ function setDate() {
 $(window).on("load", function () {
     $('#blogcontentloaded').load('/blog/page1.html');
 });
+
